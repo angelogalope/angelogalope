@@ -1,9 +1,9 @@
 ### **Hello mate!**
 _____________________________________________________________________________________________________________________________
 
-### **I am ANGELO GALOPE, a BSIT Student wanted to be a Web Developer**
+### **I am ANGELO GALOPE, a BSIT Student wanted to be successful professionally**
 
-A 19 years old newbie to tech environment, wanted to pursue BSIT course because I don't have any other choices. 
+A 20 years old newbie to tech environment, wanted to pursue BSIT course because I don't have any other choice. 
 I know myself as a motivated, well-educated, and ecstatic person. I am now focusing on my course hoping that it won't kill me. 
 
 _____________________________________________________________________________________________________________________________
