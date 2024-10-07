@@ -59,7 +59,9 @@
 <br>
 <br>
 
+### Now Playing — Spotify 🎧
 <p>
-  <a href="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=3156vvz2ezzalwwnapacv4oxzjki&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=3156vvz2ezzalwwnapacv4oxzjki&redirect=true)">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=3156vvz2ezzalwwnapacv4oxzjki&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3156vvz2ezzalwwnapacv4oxzjki&redirect=true"/>
   </a>
 </p>
